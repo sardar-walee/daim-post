@@ -1,0 +1,14 @@
+{
+  "appName": "Daim Post",
+  "login": "Giriş",
+  "signup": "Kayıt ol",
+  "email": "E‑posta",
+  "password": "Şifre",
+  "post": "Gönderi",
+  "createPost": "Gönderi Oluştur",
+  "writeSomething": "Bir şey yaz...",
+  "submit": "Gönder",
+  "logout": "Çıkış",
+  "feed": "Akış",
+  "language": "Dil"
+}

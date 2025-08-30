@@ -1,0 +1,14 @@
+{
+  "appName": "Daim Post",
+  "login": "Login",
+  "signup": "Sign up",
+  "email": "Email",
+  "password": "Password",
+  "post": "Post",
+  "createPost": "Create Post",
+  "writeSomething": "Write something...",
+  "submit": "Submit",
+  "logout": "Logout",
+  "feed": "Feed",
+  "language": "Language"
+}

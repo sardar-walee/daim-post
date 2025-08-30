@@ -1,0 +1,14 @@
+{
+  "appName": "دایم پست",
+  "login": "ورود",
+  "signup": "ثبت‌نام",
+  "email": "ایمیل",
+  "password": "رمز عبور",
+  "post": "پست",
+  "createPost": "ایجاد پست",
+  "writeSomething": "چیزی بنویسید...",
+  "submit": "ارسال",
+  "logout": "خروج",
+  "feed": "فید",
+  "language": "زبان"
+}
